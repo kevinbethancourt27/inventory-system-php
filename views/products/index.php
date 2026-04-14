@@ -16,7 +16,7 @@ if (!isset($_SESSION['user'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Inventory System</title>
+    <title>Sistema de Inventario</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -26,7 +26,7 @@ if (!isset($_SESSION['user'])) {
 
    <div class="d-flex justify-content-between mb-3">
     
-    <h2>Inventory System</h2>
+    <h2>Sistema de Inventario</h2>
 
     <div>
         <a href="create.php" class="btn btn-primary">+ Add Product</a>
