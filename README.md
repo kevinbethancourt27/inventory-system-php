@@ -10,19 +10,19 @@ Aplicación web para la gestión de productos, control de stock y categorías.
 * Consultas seguras utilizando prepared statements
 * Interfaz responsiva con Bootstrap
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 * PHP
 * MySQL
 * Bootstrap
 
-## ⚙️ Instalación
+##  Instalación
 
 1. Clonar el repositorio
 2. Importar la base de datos
 3. Configurar el archivo `config/db.php`
 4. Ejecutar el proyecto en XAMPP
 
-## 👨‍💻 Autor
+##  Autor
 
 Kevin Bethancourt
