@@ -1,56 +1,28 @@
-\# Inventory System (PHP + MySQL)
+# Sistema de Inventario (PHP + MySQL)
 
+Aplicación web para la gestión de productos, control de stock y categorías.
 
+## Funcionalidades
 
-Web application for managing products, stock, and categories.
+* Operaciones CRUD de productos (crear, leer, actualizar y eliminar)
+* Autenticación de usuarios (inicio de sesión y registro)
+* Búsqueda y filtrado de productos
+* Consultas seguras utilizando prepared statements
+* Interfaz responsiva con Bootstrap
 
+## 🛠️ Tecnologías
 
+* PHP
+* MySQL
+* Bootstrap
 
-\## Features
+## ⚙️ Instalación
 
+1. Clonar el repositorio
+2. Importar la base de datos
+3. Configurar el archivo `config/db.php`
+4. Ejecutar el proyecto en XAMPP
 
-
-\- CRUD operations for products
-
-\- User authentication (login \& register)
-
-\- Search and filters
-
-\- Secure queries using prepared statements
-
-\- Responsive UI with Bootstrap
-
-
-
-\## Technologies
-
-
-
-\- PHP
-
-\- MySQL
-
-\- Bootstrap
-
-
-
-\## Installation
-
-
-
-1\. Clone the repository
-
-2\. Import the database
-
-3\. Configure `config/db.php`
-
-4\. Run in XAMPP
-
-
-
-\## Author
-
-
+## 👨‍💻 Autor
 
 Kevin Bethancourt
-
